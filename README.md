@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Stan</h1>
+<h1 align="center">Hi, I'm Stan👋</h1>
 <h3> Student in The Technical University, where i am studying "Computer system and technologies"(bachelor). 
   
   I am also studying in the Software University with C#(Software Engineering).</h3>
