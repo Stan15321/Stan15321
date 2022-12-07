@@ -27,7 +27,7 @@
 <a href="https://www.facebook.com/Just.Stancho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Станислав Николов" height="30" width="40" /></a>
 <a href="https://instagram.com/_iamstann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iamstann" height="30" width="40" /></a>
 <a href="https://discord.com/channels/KingStan#3756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KingStan#3756" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D0%BD-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2-5a0046257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="KingStan#3756" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D0%BD-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2-5a0046257/" target="blank"><img align="center" src="https://favpng.com/png_view/linkedin-download-linkedin-diduco-ab-icon-png/EiqrN8tv" alt="KingStan#3756" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
