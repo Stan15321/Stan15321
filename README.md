@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Stan👋</h1>
 <h3> Student in The Technical University, where i am studying "Computer system and technologies"(bachelor). 
   
