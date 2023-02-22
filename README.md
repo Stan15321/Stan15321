@@ -6,6 +6,13 @@
   
 <img  alt="Coding" height="600" width="1100" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l883rn14gu3oqlbs7f3q41g5oaj39n4ozej3vue7&rid=giphy.gif&ct=g">
 
+
+<img align="left" src="https://user-images.githubusercontent.com/109627707/220665120-92cb566b-2b05-43ea-a17d-fb8da3340f1b.png">
+<img align="left" src="https://user-images.githubusercontent.com/109627707/220665399-525b5867-5fe1-4d3e-9ea3-df6bbe9ba6f4.png">
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stan15321" alt="stan15321" /></a> </p>
 
 - 🔭 I’m currently working on [Online_Food_Ordering_Website](https://github.com/Stan15321/Online_Food_Ordering_Website)
