@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Stan👋</h1>
 
-<h3> Student in The Technical University, where i am studying "Computer system and technologies"(bachelor). 
-
-  I am also studying in the Software University with C#(Software Engineering).</h3>
+<h3> Graduated The Technical University, with bachelor's degree in "Computer system and technologies". </h3>
   
 <img  alt="Coding" height="600" width="1100" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l883rn14gu3oqlbs7f3q41g5oaj39n4ozej3vue7&rid=giphy.gif&ct=g">
 
